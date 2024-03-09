@@ -32,6 +32,6 @@
 6. 由于网络变深但数据集简单，**因此训练20轮时出现了过拟合，使用者可以把epoch调小并适当减小学习率；**
 ## 结果展示  
 ### 准确率 
-![image](https://github.com/josieisjose/LeNet/blob/main/LeNet/runs/acc.png)
+![image](https://github.com/josieisjose/AlexNet/blob/main/AlexNet/acc.png)
 ### 损失   
-![image](https://github.com/josieisjose/LeNet/blob/main/LeNet/runs/loss.png)
+![image](https://github.com/josieisjose/AlexNet/blob/main/AlexNet/loss.png)
